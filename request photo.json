@@ -1,0 +1,52 @@
+{
+  "update_id": 424869657,
+  "message": {
+    "message_id": 21,
+    "from": {
+      "id": 1897466312,
+      "is_bot": false,
+      "first_name": "Aleksandr",
+      "last_name": "Anurov",
+      "username": "aleksandr_anurov",
+      "language_code": "en"
+    },
+    "chat": {
+      "id": 1897466312,
+      "first_name": "Aleksandr",
+      "last_name": "Anurov",
+      "username": "aleksandr_anurov",
+      "type": "private"
+    },
+    "date": 1696176314,
+    "photo": [
+      {
+        "file_id": "AgACAgIAAxkBAAMVZRmYuvroSus3ctnrxtE4rZ3topEAAgzRMRuFwshIqgeuSK7MxXIBAAMCAANzAAMwBA",
+        "file_unique_id": "AQADDNExG4XCyEh4",
+        "file_size": 983,
+        "width": 42,
+        "height": 90
+      },
+      {
+        "file_id": "AgACAgIAAxkBAAMVZRmYuvroSus3ctnrxtE4rZ3topEAAgzRMRuFwshIqgeuSK7MxXIBAAMCAANtAAMwBA",
+        "file_unique_id": "AQADDNExG4XCyEhy",
+        "file_size": 8304,
+        "width": 148,
+        "height": 320
+      },
+      {
+        "file_id": "AgACAgIAAxkBAAMVZRmYuvroSus3ctnrxtE4rZ3topEAAgzRMRuFwshIqgeuSK7MxXIBAAMCAAN4AAMwBA",
+        "file_unique_id": "AQADDNExG4XCyEh9",
+        "file_size": 28526,
+        "width": 369,
+        "height": 800
+      },
+      {
+        "file_id": "AgACAgIAAxkBAAMVZRmYuvroSus3ctnrxtE4rZ3topEAAgzRMRuFwshIqgeuSK7MxXIBAAMCAAN5AAMwBA",
+        "file_unique_id": "AQADDNExG4XCyEh-",
+        "file_size": 39576,
+        "width": 591,
+        "height": 1280
+      }
+    ]
+  }
+}

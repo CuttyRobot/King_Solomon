@@ -1,0 +1,48 @@
+{
+  "update_id": 424869661,
+  "callback_query": {
+    "id": "8149555758461737508",
+    "from": {
+      "id": 1897466312,
+      "is_bot": false,
+      "first_name": "Aleksandr",
+      "last_name": "Anurov",
+      "username": "aleksandr_anurov",
+      "language_code": "en"
+    },
+    "message": {
+      "message_id": 24,
+      "from": {
+        "id": 6496231521,
+        "is_bot": true,
+        "first_name": "Cyber Doctor",
+        "username": "CyberDoctorBot"
+      },
+      "chat": {
+        "id": 1897466312,
+        "first_name": "Aleksandr",
+        "last_name": "Anurov",
+        "username": "aleksandr_anurov",
+        "type": "private"
+      },
+      "date": 1696176628,
+      "text": "Welcome to HealthC bot. Choose system language:",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "Fuck You!",
+              "callback_data": "1"
+            },
+            {
+              "text": "No, Fuck You",
+              "callback_data": "2"
+            }
+          ]
+        ]
+      }
+    },
+    "chat_instance": "5027246075018156001",
+    "data": "2"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "update_id":424869654,
+  "message":{
+    "message_id":10,
+    "from":{"id":1897466312,
+      "is_bot":false,
+      "first_name":"Aleksandr",
+      "last_name":"Anurov",
+      "username":"aleksandr_anurov",
+      "language_code":"en"},
+    "chat":{
+      "id":1897466312,
+      "first_name":"Aleksandr",
+      "last_name":"Anurov",
+      "username":"aleksandr_anurov",
+      "type":"private"},
+    "date":1695919025,
+    "text":"Hello, i'm mister Misix"}
+}
